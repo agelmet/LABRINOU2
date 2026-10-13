@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/logo/mindyouremotion-logo.png"
+ },
+ "source_md5": "e9241adaaf7643cc9c16dd84a64582ca",
+ "version": "73da279e",
+ "tile": "#1f1f1f",
+ "crop": "0,0,0.175,1",
+ "header": [
+  "file",
+  "assets/img/logo/mindyouremotion-logo.png",
+  "e9241adaaf7643cc9c16dd84a64582ca"
+ ],
+ "made": "2026-10-13"
+}

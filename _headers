@@ -1,0 +1,4 @@
+# Photos of the team, the space and the logos: never shown by Google as the picture of this site.
+# Only Eva Lamprinou's portrait (assets/eva/) may represent the page in Google results.
+/assets/img/*
+  X-Robots-Tag: noindex
